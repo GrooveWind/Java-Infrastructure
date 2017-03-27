@@ -1,2 +1,2 @@
 # Java-Infrastructure
-JAVA FOUNDATION
+JAVA基础及其应用
